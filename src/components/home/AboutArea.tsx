@@ -6,7 +6,7 @@ const counter_data = [
   {
     id: 1,
     title: 'Years Of Experience',
-    count: 8,
+    count: 4+,
     cls: "plus",
   },
   {
