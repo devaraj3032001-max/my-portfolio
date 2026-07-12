@@ -35,7 +35,8 @@ export default function AboutArea() {
             </div>
             <div className="col-lg-9 col-sm-9">
               <div className="about-content-part wow fadeInUp delay-0-2s">
-                <p>I am Devaraj ts, a seasoned UX designer with over 8 years of experience in crafting intuitive and engaging digital experiences. My journey began with a background in graphic design, where I discovered my passion for understanding user behavior and translating it into seamless interactions.</p>
+                <p>I am Devaraj TS, a Creative Graphic Designer in Kerala with over 4 years of agency experience specializing in branding, social media design, print design, and UI/UX. I create impactful visual identities, marketing creatives, and digital experiences that help businesses strengthen their brand and connect with their audience.
+</p>
               </div>
               <div className="hero-counter-area d-flex justify-content-between wow fadeInUp delay-0-4s">
                 {counter_data.map((item, i) => (
