@@ -54,7 +54,7 @@ export default function ContactArea() {
                     <i className="ri-mail-line"></i>
                   </span>
                   <h2>Email us:</h2>
-                  <p>websitename@mail.com</p>
+                  <p>devarajts03@mail.com</p>
                 </div>
 
 
