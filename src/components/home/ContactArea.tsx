@@ -36,7 +36,7 @@ export default function ContactArea() {
                     <i className="ri-map-pin-line"></i>
                   </span>
                   <h2>our office:</h2>
-                  <p>Jurain,Dhaka Bangladesh</p>
+                  <p>Thrissur, kerala</p>
                 </div>
 
 
