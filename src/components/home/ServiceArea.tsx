@@ -39,8 +39,8 @@ export default function ServiceArea() {
               <div className="service-item wow fadeInUp delay-0-6s">
                 <i className="ri-arrow-right-up-line"></i>
                 <h5>03</h5>
-                <h4>UX Research</h4>
-                <p>Blend of functionality with aesthetics to create delightful experience.</p>
+                <h4>UI/UX DESIGN</h4>
+                <p>Creating user-focused interfaces with seamless interactions.</p>
               </div>
             </div>
 
