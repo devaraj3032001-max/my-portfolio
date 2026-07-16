@@ -30,7 +30,7 @@ export default function ServiceArea() {
                 <i className="ri-arrow-right-up-line"></i>
                 <h5>02</h5>
                 <h4>SOCIAL MEDIA DESIGN</h4>
-                <p>Creating impactful social media creatives that strengthen brand presence.</p>
+                <p>Building strong brand presence through creative social media design.</p>
               </div>
             </div>
 
