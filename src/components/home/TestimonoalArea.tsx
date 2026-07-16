@@ -37,13 +37,11 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author2.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                  Asian planners help people to knowledge in about how to
-                  invest and in save their moneye the most efficient way eve plan
-                  ners help people tioniio know ledige in about how.
+                   Devrj ts delivered within the time window and provided satisfactory work.
                 </div>
                 <div className="testi-des">
-                  <h5>Martin Smith</h5>
-                  <span>CEO & Founder Google</span>
+                  <h5>erckdavd</h5>
+                  <span>🇺🇸 United States</span>
                 </div>
               </div>
 
