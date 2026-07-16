@@ -21,13 +21,11 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author1.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                  Financial planners help people to knowledge in about how to
-                  invest and in save their moneye the most efficient way eve plan
-                  ners help people tioniio know ledige in about how.
+                  Devaraj ts is very patient and provides good service. I was well pleased with the service. I received what I was wanting and will return again.
                 </div>
                 <div className="testi-des">
-                  <h5>Zonathon Doe</h5>
-                  <span>CEO & Founder X</span>
+                  <h5>lovemyne </h5>
+                  <span>US United States</span>
                 </div>
               </div>
 
