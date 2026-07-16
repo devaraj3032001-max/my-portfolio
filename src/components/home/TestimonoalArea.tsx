@@ -57,7 +57,7 @@ export default function TestimonoalArea() {
                 </div>
                 <div className="testi-des">
                   <h5>alepado93</h5>
-                  <span>IT Italy</span>
+                  <span>🇮🇹 Italy</span>
                 </div>
               </div>
 
