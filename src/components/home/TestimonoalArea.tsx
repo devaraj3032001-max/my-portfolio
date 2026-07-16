@@ -37,7 +37,7 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author2.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                   Devrj ts delivered within the time window and provided satisfactory work.
+                   Devaraj TS delivered the work within the agreed time frame. He consistently provided high-quality and satisfactory results.
                 </div>
                 <div className="testi-des">
                   <h5>erckdavd</h5>
