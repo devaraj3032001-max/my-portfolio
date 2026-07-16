@@ -89,7 +89,7 @@ export default function TestimonoalArea() {
                 </div>
                 <div className="testi-des">
                   <h5>nogatsu_</h5>
-                  <span>ID Indonesia</span>
+                  <span>🇮🇩 Indonesia</span>
                 </div>
               </div>
 
