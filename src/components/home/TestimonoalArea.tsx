@@ -73,7 +73,7 @@ export default function TestimonoalArea() {
                 </div>
                 <div className="testi-des">
                   <h5>sofia_alice</h5>
-                  <span>IN India</span>
+                  <span>🇮🇳 India</span>
                 </div>
               </div>
 
