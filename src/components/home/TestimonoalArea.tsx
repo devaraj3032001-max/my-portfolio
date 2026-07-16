@@ -25,7 +25,7 @@ export default function TestimonoalArea() {
                 </div>
                 <div className="testi-des">
                   <h5>lovemyne </h5>
-                  <span>US United States</span>
+                 <span>🇺🇸 United States</span>
                 </div>
               </div>
 
