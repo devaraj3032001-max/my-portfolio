@@ -53,13 +53,11 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author3.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                  Hello  planners help people to knowledge in about how to
-                  invest and in save their moneye the most efficient way eve plan
-                  ners help people tioniio know ledige in about how.
+                  Devaraj TS is a professional graphic designer who consistently delivers creative, high-quality designs on time.
                 </div>
                 <div className="testi-des">
-                  <h5>Methail Dev</h5>
-                  <span>Managing Director -  Paydesk</span>
+                  <h5>alepado93</h5>
+                  <span>IT Italy</span>
                 </div>
               </div>
 
