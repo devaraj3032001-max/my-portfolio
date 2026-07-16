@@ -29,8 +29,8 @@ export default function ServiceArea() {
               <div className="service-item wow fadeInUp delay-0-4s">
                 <i className="ri-arrow-right-up-line"></i>
                 <h5>02</h5>
-                <h4>Visual Design</h4>
-                <p>Blend of artistic intuition with strategic insight to craft a visual identity.</p>
+                <h4>SOCIAL MEDIA DESIGN</h4>
+                <p>Creating engaging social media creatives and marketing visuals that strengthen brand presence and connect with modern audiences.</p>
               </div>
             </div>
 
