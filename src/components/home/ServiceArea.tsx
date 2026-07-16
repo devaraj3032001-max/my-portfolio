@@ -49,8 +49,8 @@ export default function ServiceArea() {
               <div className="service-item wow fadeInUp delay-0-8s">
                 <i className="ri-arrow-right-up-line"></i>
                 <h5>04</h5>
-                <h4>Art Direction</h4>
-                <p>Blend of strategic thinking and artistic finesse to craft a visual identity that goes beyond aesthetics.</p>
+                <h4>PRINT DESIGN</h4>
+                <p>Developing impactful print materials, including brochures, posters, packaging, and marketing assets that elevate your brand.</p>
               </div>
             </div>
 
