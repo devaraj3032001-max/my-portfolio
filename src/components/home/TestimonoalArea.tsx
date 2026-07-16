@@ -85,13 +85,11 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author5.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                  Yelp  planners help people to knowledge in about how to
-                  invest and in save their moneye the most efficient way eve plan
-                  ners help people tioniio know ledige in about how.
+                  Thank you so much! Everything was smooth and easy, and Devaraj TS provided professional service throughout the project.
                 </div>
                 <div className="testi-des">
-                  <h5>Henry Clark</h5>
-                  <span>Founder Oxyzen</span>
+                  <h5>nogatsu_</h5>
+                  <span>ID Indonesia</span>
                 </div>
               </div>
 
