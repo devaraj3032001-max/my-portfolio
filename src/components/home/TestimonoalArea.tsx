@@ -69,13 +69,11 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author4.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                  Financial planners help people to knowledge in about how to
-                  invest and in save their moneye the most efficient way eve plan
-                  ners help people tioniio know ledige in about how.
+                  Great work, it was exactly what I was looking for. Devaraj TS provided quick responses, completed the order on time, and delivered excellent service that I highly recommend.
                 </div>
                 <div className="testi-des">
-                  <h5>Eliana tweet</h5>
-                  <span>CEO & Founder Tesla</span>
+                  <h5>sofia_alice</h5>
+                  <span>IN India</span>
                 </div>
               </div>
 
