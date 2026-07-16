@@ -69,7 +69,7 @@ export default function TestimonoalArea() {
                   <img src="assets/images/testimonials/author4.jpg" alt="Author" />
                 </div>
                 <div className="text">
-                  Great work, it was exactly what I was looking for. Devaraj TS provided quick responses, completed the order on time, and delivered excellent service that I highly recommend.
+                  Great work—it was exactly what I was looking for. Devaraj TS responded quickly, delivered on time, and I highly recommend his services.
                 </div>
                 <div className="testi-des">
                   <h5>sofia_alice</h5>
