@@ -20,7 +20,7 @@ export default function ServiceArea() {
                 <i className="ri-arrow-right-up-line"></i>
                 <h5>01</h5>
                 <h4>Brand Identity Design</h4>
-                <p>Blend of strategic thinking and creative flair to craft a digital identity that resonates and captivates. kits you need to create a true website within minutes.</p>
+                <p>Crafting distinctive brand identities through logos, typography, and visual systems that help businesses build trust and create a lasting impression.</p>
               </div>
             </div>
 
