@@ -40,7 +40,7 @@ export default function BrandArea() {
                     <img src="assets/images/client-logos/partner4.png" alt="Company" />
                     <img src="assets/images/client-logos/partner5.png" alt="Company" />
                     <img src="assets/images/client-logos/partner6.png" alt="Company" />
-                    <img src="assets/images/client-logos/partner1.png" alt="Company" />
+                    <img src="assets/images/client-logos/partner7.png" alt="Company" />
                   </div>
                 </div>
               </div>
