@@ -3447,7 +3447,7 @@ ul.blog_pagination li a:hover {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     gap: 80px;
-    gap: 5rem;
+    gap: 2rem;
 }
 
 .scroller__inner img {
