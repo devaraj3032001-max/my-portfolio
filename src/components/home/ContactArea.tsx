@@ -64,7 +64,7 @@ export default function ContactArea() {
                     <ul>
                       <li><a target='_blank' href="https://facebook.com"><i className="ri-facebook-circle-fill"></i></a></li>
                       <li><a target='_blank' href="https://twitter.com"><i className="ri-twitter-x-line"></i></a></li>
-                      <li><a target='_blank' href="https://linkedin.com"><i className="ri-linkedin-fill"></i></a></li>
+                      <li><a target='_blank' href="https://www.linkedin.com/in/devarajts/
                       <li><a target='_blank' href="https://github.com/jamilrayhan10"><i className="ri-github-line"></i></a></li>
                     </ul>
                   </div>
