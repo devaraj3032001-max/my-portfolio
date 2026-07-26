@@ -43,7 +43,7 @@ const portfolio_data:DataType[] = [
     id: 4,
     col: "4",
     image: portfolio_img_4,
-    title: "Elnadu",
+    title: "Elanadu",
     category: "Social Media",
   },
   {
