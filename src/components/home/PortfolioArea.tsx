@@ -36,8 +36,8 @@ const portfolio_data:DataType[] = [
     id: 3,
     col: "4",
     image: portfolio_img_3,
-    title: "Orange Rose Flower",
-    category: "Video",
+    title: "evolv",
+    category: "Brochure",
   },
   {
     id: 4,
