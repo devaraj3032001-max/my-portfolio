@@ -43,8 +43,8 @@ const portfolio_data:DataType[] = [
     id: 4,
     col: "4",
     image: portfolio_img_4,
-    title: "Green Plant on a Desk",
-    category: "Branding",
+    title: "Elnadu",
+    category: "Social Medi",
   },
   {
     id: 5,
