@@ -1332,6 +1332,7 @@ html {
 .hero-image {
     text-align: center;
     position: relative;
+     overflow: hidden;
 }
 
 .hero-image img {
