@@ -22,8 +22,8 @@ const portfolio_data:DataType[] = [
     id: 1,
     col: "6",
     image: portfolio_img_1,
-    title: "Glasses of Cocktail",
-    category: "Branding",
+    title: "Aurex Builders",
+    category: "Hording",
   },
   {
     id: 2,
