@@ -55,10 +55,10 @@ export default function ResumeArea() {
 
 
                 <div className="resume-box">
-                  <span className="resume-date">2015 - 2018</span>
-                  <h2>Degree Of UI & UX</h2>
-                  <span>@ University of world</span>
-                  <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                  <span className="resume-date">2018 - 2021</span>
+                  <h2>Graphic Designer</h2>
+                  <span>@ Fiverr</span>
+                  <p>Worked with international clients to create logos, branding, social media graphics, and marketing materials while ensuring quality, timely delivery, and client satisfaction.</p>
                 </div>
 
               </div>
