@@ -27,10 +27,10 @@ export default function ResumeArea() {
 
 
                 <div className="resume-box">
-                  <span className="resume-date">2012 - 2028</span>
-                  <h2>Senior Designer</h2>
-                  <span>@ Google</span>
-                  <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                  <span className="resume-date">2022 - 2025</span>
+                  <h2>Graphic Designer</h2>
+                  <span>@ ThePost.Studio</span>
+                  <p>Specialized in creating social media, print, and branding designs for architecture and interior design brands. Focused on delivering modern visual content that elevated project presentations, strengthened brand presence, and increased audience engagement.</p>
                 </div>
 
               </div>
