@@ -39,10 +39,10 @@ export default function ResumeArea() {
               <div className="resume-wrapper wow fadeInUp delay-0-4s">
 
                 <div className="resume-box">
-                  <span className="resume-date">2020 - Present</span>
-                  <h2>Bachelor Degree of Science</h2>
-                  <span>@ University of London</span>
-                  <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                  <span className="resume-date">2019 - 2021</span>
+                  <h2>Bachelor of Arts in Visual Arts (Interior Design)</h2>
+                  <span>@ MG University</span>
+                  <p>I earned my Bachelor of Arts (BA) in Visual Arts (Interior Design) from DC School of Management and Technology (DCSMAT), Vagamon, affiliated with Mahatma Gandhi University, Kerala. My academic journey equipped me with a strong foundation in visual communication, design principles, interior design, typography, color theory, creative problem-solving, and design thinking. These skills have played a key role in my career as a Creative Designer, enabling me to develop impactful branding, social media creatives, print designs, and digital marketing visuals. By combining academic knowledge with hands-on industry experience, I create innovative, user-focused, and visually compelling design solutions that align with modern business and marketing goals.</p>
                 </div>
 
 
