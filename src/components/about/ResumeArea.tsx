@@ -12,9 +12,9 @@ export default function ResumeArea() {
 
                 <div className="resume-box">
                   <span className="resume-date">2020 - Present</span>
-                  <h2>Web Developer & Business Partner (Full-Time)</h2>
-                  <span>@ Envato Marketplace</span>
-                  <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                  <h2>Creative Designer (Full-Time)</h2>
+                  <span>@ YOUBRAND</span>
+                  <p>Creative Designer specializing in Social Media Design, Print Design, and Video Editing. Skilled in creating engaging marketing creatives, brand identity assets, promotional materials, and visual content that drive audience engagement, strengthen brand presence, and deliver impactful digital and print communication.</p>
                 </div>
 
 
