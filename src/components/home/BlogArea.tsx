@@ -17,9 +17,9 @@ export default function BlogArea() {
           <div className="row blog-post-box align-items-center">
             <div className="col-lg-6">
               <div className="blog-post-img">
-                <a href="#">
-                  <img src="assets/images/blog/blog1.jpg" alt="" />
-                </a>
+                <a href="https://www.behance.net/gallery/253730681/Elanadus-10-Year-Journey-Anniversary-Illustration?platform=direct" target="_blank" rel="noopener noreferrer">
+  <img src="assets/images/blog/blog1.jpg" alt="" />
+</a>
                 <div className="blog-post-category">
                   <a href="#">sm poster</a>
                 </div>
