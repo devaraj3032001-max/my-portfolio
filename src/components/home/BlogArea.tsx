@@ -21,7 +21,7 @@ export default function BlogArea() {
                   <img src="assets/images/blog/blog1.jpg" alt="" />
                 </a>
                 <div className="blog-post-category">
-                  <a href="#">Help</a>
+                  <a href="#">sm poster</a>
                 </div>
               </div>
             </div>
