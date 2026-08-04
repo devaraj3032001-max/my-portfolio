@@ -42,14 +42,14 @@ export default function BlogArea() {
                   <img src="assets/images/blog/blog2.jpg" alt="" />
                 </a>
                 <div className="blog-post-category">
-                  <a href="#">Branding</a>
+                  <a href="#">Video Editing</a>
                 </div>
               </div>
             </div>
             <div className="col-lg-6">
               <div className="blog-post-caption">
-                <h3>Posted on Aug 28</h3>
-                <h2><a className="link-decoration" href="#">Starting and Growing a Career in Web Design</a></h2>
+                <h3>Posted on Aug 01</h3>
+                <h2><a className="link-decoration" href="#">Gold's Gym | VR Fitness Social Media Reel</a></h2>
                 <a className="theme-btn theme-btn-two" href="#">Read more <i className="ri-arrow-right-line"></i></a>
               </div>
             </div>
