@@ -49,8 +49,8 @@ export default function BlogArea() {
             <div className="col-lg-6">
               <div className="blog-post-caption">
                 <h3>Posted on Aug 01</h3>
-                <h2><a className="link-decoration" href="#">Gold's Gym | VR Fitness Social Media Reel</a></h2>
-                <a className="theme-btn theme-btn-two" href="#">Read more <i className="ri-arrow-right-line"></i></a>
+                <h2><a className="link-decoration" href="https://www.behance.net/gallery/253790917/Golds-Gym-VR-Fitness-Social-Media-Reel" target="_blank" rel="noopener noreferrer">Gold's Gym | VR Fitness Social Media Reel</a></h2>
+                <a className="theme-btn theme-btn-two" href="https://www.behance.net/gallery/253790917/Golds-Gym-VR-Fitness-Social-Media-Reel" target="_blank" rel="noopener noreferrer">Read more <i className="ri-arrow-right-line"></i></a>
               </div>
             </div>
           </div>
