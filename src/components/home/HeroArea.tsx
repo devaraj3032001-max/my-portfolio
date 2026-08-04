@@ -47,7 +47,7 @@ export default function HeroArea() {
             <div className="col-lg-3 pt-30">
               <div className="hero-content wow fadeInUp delay-0-4s">
                 <p>Hi, I’m Devaraj, a creative Graphic Designer specializing in branding, social media, and UI/UX design, creating visually compelling digital experiences. </p>
-                <a className="theme-btn" href="">Get In touch</a>
+                <a className="theme-btn" href="https://linktr.ee/devarajts" target="_blank" rel="noopener noreferrer">Get In touch</a>
               </div>
 
             </div>
