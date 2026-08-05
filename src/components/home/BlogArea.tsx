@@ -59,7 +59,7 @@ export default function BlogArea() {
           <div className="row blog-post-box align-items-center">
             <div className="col-lg-6">
               <div className="blog-post-img">
-                <a href="#">
+                <a href="https://in.pinterest.com/devarajts30/">
                   <img src="assets/images/blog/blog3.jpg" alt="" />
                 </a>
                 <div className="blog-post-category">
@@ -70,7 +70,7 @@ export default function BlogArea() {
             <div className="col-lg-6">
               <div className="blog-post-caption">
                 <h3>Posted on june 01</h3>
-                <h2><a className="link-decoration" href="https://in.pinterest.com/devarajts30/">Social Media Creative</a></h2>
+                <h2><a className="link-decoration" href="https://in.pinterest.com/devarajts30/">Social Media Creatives</a></h2>
                 <a className="theme-btn theme-btn-two" href="https://in.pinterest.com/devarajts30/">Read more <i className="ri-arrow-right-line"></i></a>
               </div>
             </div>
