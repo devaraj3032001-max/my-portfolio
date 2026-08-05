@@ -28,7 +28,7 @@ export default function BlogArea() {
             <div className="col-lg-6">
               <div className="blog-post-caption">
                 <h3>Posted on Jan 26</h3>
-                <h2><a className="link-decoration" href="#">Elanadu – 10 Years of Growth | Anniversary Illustration Carousel</a></h2>
+                <h2><a className="link-decoration" href="#">Elanadu – 9 Years of Growth | Anniversary Illustration Carousel</a></h2>
                <a className="theme-btn theme-btn-two" href="https://www.behance.net/gallery/253730681/Elanadus-10-Year-Journey-Anniversary-Illustration?platform=direct" target="_blank" rel="noopener noreferrer">Read more <i className="ri-arrow-right-line"></i></a>
               </div>
             </div>
