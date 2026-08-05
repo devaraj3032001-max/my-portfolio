@@ -38,7 +38,7 @@ export default function BlogArea() {
           <div className="row blog-post-box align-items-center">
             <div className="col-lg-6">
               <div className="blog-post-img">
-                <a href="#">
+                <a href="https://www.behance.net/gallery/253790917/Golds-Gym-VR-Fitness-Social-Media-Reel" target="_blank" rel="noopener noreferrer">
                   <img src="assets/images/blog/blog2.jpg" alt="" />
                 </a>
                 <div className="blog-post-category">
