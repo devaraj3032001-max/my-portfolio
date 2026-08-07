@@ -59,7 +59,7 @@ export default function BlogArea() {
           <div className="row blog-post-box align-items-center">
             <div className="col-lg-6">
               <div className="blog-post-img">
-                <a href="https://in.pinterest.com/devarajts30/">
+                <a href="https://in.pinterest.com/devarajts30/_created/">
                   <img src="assets/images/blog/blog3.jpg" alt="" />
                 </a>
                 <div className="blog-post-category">
