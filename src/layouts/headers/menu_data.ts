@@ -41,7 +41,7 @@ const menu_data: DataType[] = [
 	{
     id: 5,
     title: "Pinterest",
-    link: "https://in.pinterest.com/devarajts30/",
+    link: "https://in.pinterest.com/devarajts30/_created/",
     has_dropdown: false,
 },
 	{
