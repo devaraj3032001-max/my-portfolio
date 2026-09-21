@@ -13,7 +13,7 @@ export default function SingleProject() {
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
-            <Breadcrumb title="Branch with Flowers" style_3={true} />
+            <Breadcrumb title="The town house" style_3={true} />
             <SingleProjectArea />
           </main>
           <FooterOne />
