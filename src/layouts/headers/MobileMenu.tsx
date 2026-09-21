@@ -26,7 +26,11 @@ export default function MobileMenu() {
           <ul>
             {menu_data.map((item, i) => (
               <li key={i} className={`${item.has_dropdown && "has-dropdown"} ${navTitle === item.title ? "dropdown-opened" : ""}`}>
-                <Link href={item.link} className="linkstyle">{item.title}</Link>
+               {item.link.startsWith("http") ? (
+  <a href={item.link} className="linkstyle" target="_blank" rel="noopener noreferrer">{item.title}</a>
+) : (
+  <Link href={item.link} className="linkstyle">{item.title}</Link>
+)}
                 {item.has_dropdown &&
                   <>
                     <ul className="sub-menu" style={{ display: navTitle === item.title ? "block" : "none" }}>

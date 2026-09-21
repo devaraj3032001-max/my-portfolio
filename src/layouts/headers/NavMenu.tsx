@@ -9,7 +9,11 @@ export default function NavMenu() {
       <ul>
         {menu_data.map((item, i) => (
           <li key={i} className={`${item.has_dropdown && "has-dropdown"}`}>
-            <Link href={item.link}>{item.title}</Link>
+           {item.link.startsWith("http") ? (
+  <a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a>
+) : (
+  <Link href={item.link}>{item.title}</Link>
+)}
             {item.has_dropdown &&
               <ul className="sub-menu">
                 {item.sub_menus?.map((sub_menu, index) => (
