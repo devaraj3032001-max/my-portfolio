@@ -39,11 +39,11 @@ const menu_data: DataType[] = [
 		],
 	},
 	{
-		id: 5,
-		title: "Blog",
-		link: "/blog",
-		has_dropdown: false,
-	},
+    id: 5,
+    title: "Pinterest",
+    link: "https://in.pinterest.com/devarajts30/",
+    has_dropdown: false,
+},
 	{
 		id: 6,
 		title: "Contact",
