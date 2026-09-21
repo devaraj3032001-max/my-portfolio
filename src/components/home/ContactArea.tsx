@@ -35,7 +35,7 @@ export default function ContactArea() {
                   <span className="circle-btn">
                     <i className="ri-map-pin-line"></i>
                   </span>
-                  <h2>our office:</h2>
+                  <h2>LOCATION:</h2>
                   <p>Thrissur, kerala</p>
                 </div>
 
